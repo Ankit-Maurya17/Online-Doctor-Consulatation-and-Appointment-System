@@ -1,6 +1,6 @@
-# Online-Doctor-Consulatation-and-Appointment-System
 
 🩺 Online Doctor Consultation and Appointment System
+
 📌 Project Description
 The Online Doctor Consultation and Appointment System is a web-based platform that enables patients to schedule appointments with doctors and consult them online. It provides a digital interface for users to view doctor profiles, book appointments, and receive timely medical consultations without visiting the clinic or hospital physically.
 
