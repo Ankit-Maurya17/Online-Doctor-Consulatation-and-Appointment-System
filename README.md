@@ -1,5 +1,7 @@
 
-![home page](https://github.com/user-attachments/assets/56dc3f77-d355-4441-8b19-e3eaeae63ef0
+
+![home page](https://github.com/user-attachments/assets/3d41cc41-b164-41ec-830d-6757ea76f27e)
+
 ![home page 2](https://github.com/user-attachments/assets/c0e0f926-0ddd-4b3d-8064-47783da0da09)
 ![about us  page](https://github.com/user-attachments/assets/3f56b67f-dcd0-4a0e-b67a-a60c6b4dbb40)
 ![Contact page](https://github.com/user-attachments/assets/59b0a377-f961-4f39-a20a-cef40bb5c6ed)
