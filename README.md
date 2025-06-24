@@ -1,4 +1,12 @@
 
+![home page](https://github.com/user-attachments/assets/56dc3f77-d355-4441-8b19-e3eaeae63ef0
+![home page 2](https://github.com/user-attachments/assets/c0e0f926-0ddd-4b3d-8064-47783da0da09)
+![about us  page](https://github.com/user-attachments/assets/3f56b67f-dcd0-4a0e-b67a-a60c6b4dbb40)
+![Contact page](https://github.com/user-attachments/assets/59b0a377-f961-4f39-a20a-cef40bb5c6ed)
+![doctor home page](https://github.com/user-attachments/assets/569ac6d3-ecd1-400d-bc3d-fc416832f579)
+
+![patient home page](https://github.com/user-attachments/assets/2bc93cc6-0e67-4f65-853c-0f001e440940)
+
 🩺 Online Doctor Consultation and Appointment System
 
 📌 Project Description:-
